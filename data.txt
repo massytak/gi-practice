@@ -1,0 +1,6 @@
+bonjour 
+name of project: IRONHACK Trainnig 
+time to train 100 h
+Name: Ironhacker
+Age: 25
+Favorite Color: Yellow
